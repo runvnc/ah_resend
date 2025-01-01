@@ -1,0 +1,7 @@
+{
+    "name": "Resend Email Provider",
+    "version": "1.0.0",
+    "description": "Resend.com email service integration for MindRoot",
+    "services": ["send_email"],
+    "commands": []
+}
